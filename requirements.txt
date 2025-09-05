@@ -1,0 +1,34 @@
+# Core data handling
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Model serialization
+joblib
+
+# Web framework
+flask
+flask-cors
+
+# Model monitoring & explainability
+evidently
+shap
+
+# Utilities
+tqdm
+python-dotenv
+jupyterlab
+
+# Testing
+pytest
